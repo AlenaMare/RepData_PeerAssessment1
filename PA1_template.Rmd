@@ -1,6 +1,6 @@
 ---
-title: "PA1_template.Rmd"
-output: html_document
+title: "PA1_template.md"
+output: github_document
 ---
 
 This file contains my submitted assignment for Reproducible Research - Week 2` project.
